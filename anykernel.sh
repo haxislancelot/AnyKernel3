@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=not_kernel by skye-tachyon @ xda-developers
+kernel.string=RyzenKernel LTS for Snapdragon 865 devices by @donottellmyname
 do.devicecheck=1
 do.modules=0
 do.systemless=1
