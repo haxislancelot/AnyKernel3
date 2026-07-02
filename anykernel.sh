@@ -5,7 +5,7 @@
 # begin properties
 properties() { '
 kernel.string=RyzenKernel by Nihil@donottellmyname
-do.devicecheck=0
+do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
